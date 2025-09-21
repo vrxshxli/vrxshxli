@@ -128,52 +128,8 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
 <br><br>
 
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/><br>PHP
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br><br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      
-  
-  </tbody>
-</table>
-</div>
+
+
 
 
 
@@ -218,15 +174,11 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:deepakm7779@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=deepakm7778@gmail.com&size=square" alt="Deepak Mishra" style="margin: 10px;">
+      <a href="mailto:nanavativrushali28@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=nanavativrushali28@gmail.com&size=square" alt="Vrushali Nanavati" style="margin: 10px;">
       </a>
     </td>
-    <td align="center">
-  <a href="https://wa.me/917028196172" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028196172&size=square" alt="India-+91-702-819-6172" style="margin: 10px;">
-  </a>
-</td>
+    
 
   </tr>
 </table>
@@ -238,7 +190,7 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
 <h3>
 <div align="center">
   
-⭐️ From [ddevguru](https://github.com/ddevguru) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [vrxshxli](https://github.com/vrxshxli) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
